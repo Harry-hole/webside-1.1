@@ -2,4 +2,4 @@
 
 lorem ipsum
 
-sprawdz nas [nic tu nie ma](https://google.com)
+# sprawdz nas [nic tu nie ma](https://google.com)
